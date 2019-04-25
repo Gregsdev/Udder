@@ -18,6 +18,10 @@ class ViewController: UIViewController {
     override func updateFocusIfNeeded() {
         //
     }
+    
+    override func viewDidAppear(_ animated: Bool) {
+        //
+    }
 
 
 }
